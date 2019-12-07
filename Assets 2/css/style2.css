@@ -1,0 +1,113 @@
+
+html,
+body {
+    background-image: url("https://cdn.dodowallpaper.com/full/776/minimalistic-backgrounds-wallpapers-10.jpg");
+  
+}
+
+
+.card-title {
+  
+    line-height: 2;
+    color:#4aaaa5;
+    font-size: 30px;
+}
+
+h1 {margin:0 0 0 65px;
+    background-color:#4aaaa5;
+    color: white;
+    padding: 20px;
+}
+
+
+
+  .jumbotron-fluid {
+    background-image:url("https://media.giphy.com/media/26BROFLJSFhP0cMGk/giphy.gif");
+    background-size: cover;
+    color: whitesmoke;
+    text-align: center;
+
+  }
+
+  .jumbotron-special {
+    background-image:url("https://media.giphy.com/media/39xApN4bW6ygdrvBM3/giphy.gif");
+    background-size: cover;
+    color: whitesmoke;
+    text-align: center;
+}
+
+    .jumbotron-special1  {
+        background-image:url("https://media.giphy.com/media/l4FGHzb9sBnQmYjyU/giphy.gif");
+        background-size: cover;
+        color:whitesmoke;
+    text-align: center; }
+
+    .jumbotron-special2  {
+        background-image:url("https://media.giphy.com/media/14ko1wkUS2thu/giphy.gif");
+        background-size: cover;
+        color:whitesmoke;
+    text-align: center; }
+
+    .jumbotron-special3 {
+        background-image:url("https://media.giphy.com/media/14ko1wkUS2thu/giphy.gif");
+        background-size: cover;
+        color:whitesmoke;
+    text-align: center; }
+
+    .jumbotron-special4  {
+        background-image:url("https://media.giphy.com/media/14ko1wkUS2thu/giphy.gif");
+        background-size: cover;
+        color:whitesmoke;
+    text-align: center; }
+
+
+    #sticky-footer {
+        flex-shrink: none;
+      }
+      
+
+      #text{
+          color: black;
+          font-weight: bold;
+      }
+   
+
+     #containerExtra  {
+       text-align: center;
+       margin-left: 460px;
+       width: 250px;
+     }
+       #gitimage {
+        width: 50px;
+        margin-right: 15px;
+        
+    }
+       
+   
+
+   #LinkedIn{
+       width: 50px;
+    
+   }
+
+   #blog{
+    width: 50px;
+    margin-left: 7.5px;
+   
+    
+    
+}
+
+
+    
+   
+
+
+
+
+
+
+   
+      
+   
+

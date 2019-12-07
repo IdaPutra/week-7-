@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+    
+    
+header {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+    border: solid 1px#cccccc;
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+  
+
+}
+
+body {
+    background-image: url("../images/48868.jpg");
+}
+
+
+
+.maintext-body{
+    width: 960px;
+    margin: 0 auto;
+    
+    
+    padding: 20px 10px 100px 20px;
+    border: 0.5px solid grey;
+     background-color: white;
+    position: relative;
+}
+
+
+
+
+img {
+margin:0 10px 0 0}
+
+.about-me { 
+    margin-right: 100px;
+    line-height: 1.5;
+    max-width: 800px;
+}
+
+.links {
+    list-style: none;
+    display: flex; 
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: 60px;
+    margin-top: 30px; 
+    margin-bottom: 30px;
+
+    
+}
+
+a {
+    text-decoration: none;
+    margin:0 10px 0 10px;
+    color: #777777;
+    font-size:  14px;
+}
+
+
+
+h2 {
+    border-bottom: 3px solid #dddddd;
+    margin-bottom: 20px;
+    line-height: 2;
+    color:#4aaaa5;
+    font-size: 30px;
+    
+     
+}
+
+#name {margin:0 0 0 65px;
+    background-color:#4aaaa5;
+    color: white;
+    padding: 20px;
+    
+ }
+
+footer {
+    height: 50px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+footer {
+    clear:both;
+    overflow: auto;
+    padding: 10px 0 10px 0;
+    background-color: #666666;
+    color: #ffffff;
+    text-align: center;
+    border-top: 8px solid #4aaaa5;
+    flex-shrink: 0;
+}
+
+
+    #name-box {width: 99%;
+    height: 20%; }
+    #email-box {width: 99%}
+
+    .portfolio1,.portfolio2,.portfolio3,.portfolio4,.portfolio5,.portfolio6 {
+        
+        display:inline-block;
+        width: 30%;
+        position: relative;
+        margin-right: 20px;
+        margin-bottom: 40px;
+    }
+
+    .portname {
+        
+            background-color: #4aaaa5;
+            color: white;
+            position: absolute;
+            top: 211px;
+            text-align: center;
+            width: 108%;
+            padding: 20px 0 20px 0;
+        }
+       
+    
+    .portimage {
+        height: 300px;
+        width: 276px;
+    }
+   
+    
+
+   
+    
+
